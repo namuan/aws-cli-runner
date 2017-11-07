@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.github.namuan;
 
 import static java.lang.System.exit;
 
