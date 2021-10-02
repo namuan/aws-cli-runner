@@ -30,13 +30,13 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-sqs</artifactId>
-            <version>1.11.1023</version>
+            <version>1.11.1034</version>
         </dependency>
 
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-core</artifactId>
-            <version>1.11.903</version>
+            <version>1.11.1034</version>
         </dependency>
 
         <dependency>
